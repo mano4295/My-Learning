@@ -1,2 +1,4 @@
-This is Cloned from Git to Local Machine
+This is Cloned from Git to Local Machine .
+
+Git Commit Testing
 
